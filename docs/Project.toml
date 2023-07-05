@@ -1,3 +1,4 @@
 [deps]
 Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+IterTools = "c8e1da08-722c-5040-9ed9-7db0dc04731e"
 Sudoku3D = "00f5a8a1-c6ac-4e59-b637-ea595a587982"
