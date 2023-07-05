@@ -3,6 +3,10 @@ uuid = "00f5a8a1-c6ac-4e59-b637-ea595a587982"
 authors = ["Andreas Bøgh Poulsen"]
 version = "0.1.0"
 
+[deps]
+IterTools = "c8e1da08-722c-5040-9ed9-7db0dc04731e"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+
 [compat]
 julia = "1.6"
 
